@@ -1,2 +1,2 @@
-# username.github.io
+# ideamotor.github.io
 website
